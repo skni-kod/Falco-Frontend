@@ -1,15 +1,12 @@
 <template>
-  <hello-world />
+  <v-container>
+    Hello World
+  </v-container>
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld.vue';
 
 export default {
   name: 'Home',
-
-  components: {
-    HelloWorld,
-  },
 };
 </script>
