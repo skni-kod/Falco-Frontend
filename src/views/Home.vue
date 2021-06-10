@@ -1,12 +1,11 @@
 <template>
-  <v-container>
-    Hello World
-  </v-container>
+  <div>
+    HelloWorld
+  </div>
 </template>
 
 <script>
-
-export default {
-  name: 'Home',
-};
+  export default {
+    name: 'Home',
+  }
 </script>
